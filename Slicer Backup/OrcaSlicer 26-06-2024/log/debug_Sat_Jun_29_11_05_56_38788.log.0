@@ -1,0 +1,9 @@
+[error]	2024-06-29 11:06:00.121211[Thread 0x00005eb4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-29 11:06:00.121211[Thread 0x00005eb4]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-29 11:06:00.336744[Thread 0x00005eb4]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-29 11:06:01.944364[Thread 0x00005eb4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-29 11:06:02.099955[Thread 0x00005eb4]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-06-29 11:06:02.227173[Thread 0x00005eb4]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-06-29 11:10:46.790808[Thread 0x00005eb4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-06-29 11:10:54.243932[Thread 0x00002d84]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":110.000000,
+[error]	2024-06-29 12:10:31.194588[Thread 0x00005eb4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

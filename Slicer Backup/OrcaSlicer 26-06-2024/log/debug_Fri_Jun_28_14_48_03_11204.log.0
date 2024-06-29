@@ -1,0 +1,8 @@
+[error]	2024-06-28 14:48:13.102169[Thread 0x00007890]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 14:48:13.106204[Thread 0x00007890]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-28 14:48:13.456218[Thread 0x00007890]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-28 14:48:16.140386[Thread 0x00007890]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 14:48:16.488517[Thread 0x00007890]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-06-28 14:48:16.768337[Thread 0x00007890]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-06-28 14:49:37.617003[Thread 0x00007890]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 14:49:37.698757[Thread 0x00007890]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg

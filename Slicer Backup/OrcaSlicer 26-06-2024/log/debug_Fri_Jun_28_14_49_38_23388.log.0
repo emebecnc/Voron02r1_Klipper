@@ -1,0 +1,114 @@
+[error]	2024-06-28 14:49:40.587623[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 14:49:40.588621[Thread 0x00005a78]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-28 14:49:40.720379[Thread 0x00005a78]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-28 14:49:41.778297[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 14:49:41.861928[Thread 0x00005a78]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[warning]	2024-06-28 14:49:41.935364[Thread 0x00005a78]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-06-28 14:49:44.614562[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 14:49:44.695891[Thread 0x00005a78]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-28 14:49:45.251611[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 14:49:45.260579[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 14:49:45.269510[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 14:49:45.278486[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 14:49:45.287888[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 14:49:45.287888[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 14:49:45.288865[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 14:49:45.297008[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 14:49:45.306214[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 14:49:45.390573[Thread 0x00005a78]:Unable to load bed texture: E:\Escritorio\Plate EMEBE3D 2.svg
+[error]	2024-06-28 14:49:46.646369[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 14:49:48.781645[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 14:49:52.405078[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 14:50:05.861985[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 14:50:13.638273[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 14:52:36.139331[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 14:52:42.538513[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 14:52:47.431722[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 14:53:10.113721[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-06-28 14:53:15.529801[Thread 0x00007a80]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-06-28 14:53:23.091143[Thread 0x000061f4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-06-28 14:53:23.091143[Thread 0x000072bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-06-28 14:53:23.106764[Thread 0x00007f0c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-06-28 14:53:23.122386[Thread 0x00001974]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-06-28 14:53:23.122386[Thread 0x00002de4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-06-28 14:53:23.122386[Thread 0x00007f80]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-06-28 14:53:23.173133[Thread 0x00005bf0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-06-28 14:53:23.202575[Thread 0x00006990]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2024-06-28 14:53:23.271359[Thread 0x00007f0c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2024-06-28 14:53:47.199832[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 14:54:15.081493[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 14:54:16.367059[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 14:54:20.849491[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 14:54:36.574502[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 14:54:55.565088[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:16:56.741771[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:17:11.828715[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:17:12.242113[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:17:16.987215[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:17:17.775587[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:17:36.557623[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:17:37.508104[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:17:52.608905[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:18:07.691915[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:18:11.758825[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:19:52.209597[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:35:08.534488[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:08.535481[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:08.535481[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:08.536488[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:08.537476[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:08.537476[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:08.538473[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:15.509137[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:15.510135[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:15.510135[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:15.511132[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:15.511293[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:15.511293[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:15.512334[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:15.876920[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:15.878911[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:15.879909[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:15.881971[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:15.882970[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:15.883961[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:15.883961[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:16.356276[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:16.356276[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:16.357781[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:16.357781[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:16.358780[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:16.358780[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:35:16.358780[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:37:27.337824[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:37:27.865487[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:37:32.023715[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:37:53.395379[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:38:04.511886[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-06-28 15:38:10.411205[Thread 0x00005bf4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2024-06-28 15:38:12.973509[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-28 15:54:27.192393[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:54:27.192393[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:54:27.192393[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:54:27.192393[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:54:27.192393[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-06-28 15:55:11.001944[Thread 0x00008b70]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-06-28 15:55:11.029882[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:55:12.228221[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:55:12.230318[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:55:12.230318[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:55:12.230318[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:55:12.232320[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 15:55:12.232320[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-06-28 15:55:21.192204[Thread 0x00008b70]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":295.000000,
+[error]	2024-06-28 18:46:29.143723[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 18:46:29.143723[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-28 18:46:29.143723[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-29 08:37:35.653531[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-29 08:37:35.655482[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-29 11:22:37.339296[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-29 11:22:37.341293[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-29 11:22:37.342290[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-29 11:22:37.343287[Thread 0x00005a78]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-06-29 11:22:49.500967[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-06-29 11:22:54.210974[Thread 0x00005a78]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
